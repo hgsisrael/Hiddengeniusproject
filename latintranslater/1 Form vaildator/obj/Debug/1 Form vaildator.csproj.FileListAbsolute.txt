@@ -1,0 +1,10 @@
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\bin\Debug\1 Form vaildator.exe.config
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\bin\Debug\1 Form vaildator.exe
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\bin\Debug\1 Form vaildator.pdb
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\1 Form vaildator.csprojAssemblyReference.cache
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\_1_Form_vaildator.Form1.resources
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\_1_Form_vaildator.Properties.Resources.resources
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\1 Form vaildator.csproj.GenerateResource.cache
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\1 Form vaildator.csproj.CoreCompileInputs.cache
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\1 Form vaildator.exe
+C:\Users\wabbe\source\repos\1 Form vaildator\1 Form vaildator\obj\Debug\1 Form vaildator.pdb
